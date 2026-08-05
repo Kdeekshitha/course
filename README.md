@@ -1,2 +1,3 @@
 # course
-Practice for Git
+Practice for Git.
+Simple frontend login page 
